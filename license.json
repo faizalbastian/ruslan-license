@@ -4,7 +4,7 @@
     "AUTOTUT": {
       "enabled": true,
       "users": {
-        "ruslan": { "active": true }
+        "ruslanprok": { "active": true }
       }
     }
   }
