@@ -1,7 +1,24 @@
 {
   "signature": "RSL-9CFCCF9059D16D9780EE6062CECD2CBF",
   "scripts": {
-    "AUTOTUT":  { "enabled": true, "users": { "ruslanprok": { "active": true } } },
-    "AUTOSTOR": { "enabled": true, "users": { "ruslanprok": { "active": true } } }
+    "AUTOTUT": {
+      "enabled": true,
+      "users": {
+        "ruslanprok": {
+          "active": true
+        },
+        "__uji_bot__": {
+          "active": true
+        }
+      }
+    },
+    "AUTOSTOR": {
+      "enabled": true,
+      "users": {
+        "ruslanprok": {
+          "active": true
+        }
+      }
+    }
   }
 }
