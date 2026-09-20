@@ -22,6 +22,14 @@
           "active": true
         }
       }
+    },
+    "AUTOLEVEL": {
+      "enabled": true,
+      "users": {
+        "Sprolee": {
+          "active": true
+        }
+      }
     }
   }
 }
