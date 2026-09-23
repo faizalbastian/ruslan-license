@@ -33,6 +33,14 @@
           "active": true
         }
       }
+    },
+    "AUTOMOVE": {
+      "enabled": true,
+      "users": {
+        "DeExpG": {
+          "active": true
+        }
+      }
     }
   }
 }
