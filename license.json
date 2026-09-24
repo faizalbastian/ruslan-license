@@ -52,6 +52,14 @@
           "active": true
         }
       }
+    },
+    "AUTOFACTORY": {
+      "enabled": true,
+      "users": {
+        "fikra": {
+          "active": true
+        }
+      }
     }
   }
 }
