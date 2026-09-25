@@ -63,6 +63,14 @@
           "active": true
         }
       }
+    },
+    "AUTOSSP": {
+      "enabled": true,
+      "users": {
+        "Sprolee": {
+          "active": true
+        }
+      }
     }
   }
 }
