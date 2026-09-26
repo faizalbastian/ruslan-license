@@ -80,6 +80,17 @@
           "active": true
         }
       }
+    },
+    "AUTOCAVE": {
+      "enabled": true,
+      "users": {
+        "claiere": {
+          "active": true,
+          "growids": [
+            "CLAIERE"
+          ]
+        }
+      }
     }
   }
 }
