@@ -95,6 +95,14 @@
           ]
         }
       }
+    },
+    "AUTOFIND": {
+      "enabled": true,
+      "users": {
+        "ruslanprokk": {
+          "active": true
+        }
+      }
     }
   }
 }
