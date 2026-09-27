@@ -7,9 +7,6 @@
         "ruslanprok": {
           "active": true
         },
-        "mahti": {
-          "active": true
-        },
         "trereer": {
           "active": true
         },
@@ -17,6 +14,9 @@
           "active": true
         },
         "mezusa1": {
+          "active": true
+        },
+        "ruslanprokk": {
           "active": true
         }
       }
@@ -87,7 +87,8 @@
         "claiere": {
           "active": true,
           "growids": [
-            "kuzugobapi", "qonemeveni"
+            "kuzugobapi",
+            "qonemeveni"
           ]
         }
       }
