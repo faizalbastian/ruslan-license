@@ -103,6 +103,14 @@
           "active": true
         }
       }
+    },
+    "AUTODF": {
+      "enabled": true,
+      "users": {
+        "ruslanprokk": {
+          "active": true
+        }
+      }
     }
   }
 }
