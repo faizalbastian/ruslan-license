@@ -114,6 +114,14 @@
           "active": true
         }
       }
+    },
+    "AUTOCOLLECT": {
+      "enabled": true,
+      "users": {
+        "usernameLucifer": {
+          "active": true
+        }
+      }
     }
   }
 }
