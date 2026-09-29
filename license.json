@@ -140,6 +140,14 @@
           "active": true
         }
       }
+    },
+    "AUTOPNB": {
+      "enabled": true,
+      "users": {
+        "Zakaria142005": {
+          "active": true
+        }
+      }
     }
   }
 }
