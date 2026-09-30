@@ -160,6 +160,17 @@
           "active": true
         }
       }
+    },
+    "AUTOCOPYWORLDPLUS": {
+      "enabled": true,
+      "users": {
+        "ruslanprok": {
+          "active": true
+        },
+        "namapembeli": {
+          "active": true
+        }
+      }
     }
   }
 }
