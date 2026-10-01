@@ -129,6 +129,12 @@
             "TASDIKHADI",
             "PUJIRAHAYU"
           ]
+        },
+        "Fahtra3": {
+          "active": true,
+          "growids": [
+            "PERERKW"
+          ]
         }
       }
     },
