@@ -188,6 +188,14 @@
           "active": true
         }
       }
+    },
+    "AUTOVEND": {
+      "enabled": true,
+      "users": {
+        "asyx": {
+          "active": true
+        }
+      }
     }
   }
 }
