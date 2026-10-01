@@ -133,7 +133,8 @@
         "Fahtra3": {
           "active": true,
           "growids": [
-            "PERERKW"
+            "PERERKW",
+            "KAKTUSLANGKA"
           ]
         }
       }
