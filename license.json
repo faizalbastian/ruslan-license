@@ -111,6 +111,9 @@
         },
         "yodam": {
           "active": true
+        },
+        "ruslans": {
+          "active": true
         }
       }
     },
