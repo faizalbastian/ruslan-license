@@ -232,6 +232,14 @@
           "active": true
         }
       }
+    },
+    "AUTOPROVIDER": {
+      "enabled": true,
+      "users": {
+        "surzeroo": {
+          "active": true
+        }
+      }
     }
   }
 }
