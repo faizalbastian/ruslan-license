@@ -168,8 +168,7 @@
           "growids": [
             "PERERKW",
             "KAKTUSLANGKA",
-            "PUTRASAKSANG",
-            "xcoolingx"
+            "PUTRASAKSANG"
           ]
         },
         "artisticzrocket": {
@@ -282,6 +281,9 @@
       "enabled": true,
       "users": {
         "sprolee": {
+          "active": true
+        },
+        "ruslanprokk": {
           "active": true
         }
       }
