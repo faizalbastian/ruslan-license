@@ -304,6 +304,14 @@
           "active": true
         }
       }
+    },
+    "AUTOSPLICE": {
+      "enabled": true,
+      "users": {
+        "masna007": {
+          "active": true
+        }
+      }
     }
   }
 }
