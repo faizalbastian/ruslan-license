@@ -210,9 +210,6 @@
     "AUTODF": {
       "enabled": true,
       "users": {
-        "elen11": {
-          "active": true
-        },
         "Eetuh": {
           "active": true
         }
