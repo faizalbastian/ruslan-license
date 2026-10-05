@@ -296,6 +296,14 @@
           "active": true
         }
       }
+    },
+    "AUTOTREASUREU": {
+      "enabled": true,
+      "users": {
+        "DexPerma": {
+          "active": true
+        }
+      }
     }
   }
 }
