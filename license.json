@@ -276,6 +276,14 @@
           "active": true
         }
       }
+    },
+    "ROTASI": {
+      "enabled": true,
+      "users": {
+        "luciferusername": {
+          "active": true
+        }
+      }
     }
   }
 }
