@@ -296,6 +296,28 @@
           "active": true
         }
       }
+    },
+    "AUTOTREASUREU": {
+      "enabled": true,
+      "users": {
+        "DexPerma": {
+          "active": true
+        },
+        "ruslanprokk": {
+          "active": true
+        },
+        "ruslans": {
+          "active": true
+        }
+      }
+    },
+    "AUTOSPLICE": {
+      "enabled": true,
+      "users": {
+        "masna007": {
+          "active": true
+        }
+      }
     }
   }
 }
