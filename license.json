@@ -284,7 +284,7 @@
         "sprolee": {
           "active": true
         },
-        "ruslanprokk": {
+        "ruslans": {
           "active": true
         }
       }
@@ -292,7 +292,7 @@
     "AUTOROTATION": {
       "enabled": true,
       "users": {
-        "ruslanprokk": {
+        "ruslans": {
           "active": true
         }
       }
