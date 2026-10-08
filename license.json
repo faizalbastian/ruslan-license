@@ -271,6 +271,9 @@
         },
         "foldlox3": {
           "active": true
+        },
+        "nanotron": {
+          "active": true
         }
       }
     },
