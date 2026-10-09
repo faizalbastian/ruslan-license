@@ -334,6 +334,9 @@
       "users": {
         "ruslans": {
           "active": true
+        },
+        "nabu": {
+          "active": true
         }
       }
     },
