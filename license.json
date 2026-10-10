@@ -373,6 +373,14 @@
           "active": true
         }
       }
+    },
+    "AUTOCAVEU": {
+      "enabled": true,
+      "users": {
+        "jayjaz": {
+          "active": true
+        }
+      }
     }
   }
 }
