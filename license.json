@@ -221,6 +221,14 @@
         }
       }
     },
+    "AUTOCAVEU": {
+      "enabled": true,
+      "users": {
+        "jayjaz": {
+          "active": true
+        }
+      }
+    },
     "AUTOFIND": {
       "enabled": true,
       "users": {
