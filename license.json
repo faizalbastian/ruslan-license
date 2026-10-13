@@ -399,6 +399,14 @@
           "active": true
         }
       }
+    },
+    "AUTOMASSING": {
+      "enabled": true,
+      "users": {
+        "masna007": {
+          "active": true
+        }
+      }
     }
   }
 }
