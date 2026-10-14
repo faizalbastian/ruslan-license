@@ -428,6 +428,14 @@
           "active": true
         }
       }
+    },
+    "AUTORECYCLE": {
+      "enabled": true,
+      "users": {
+        "Bysenpai": {
+          "active": true
+        }
+      }
     }
   }
 }
