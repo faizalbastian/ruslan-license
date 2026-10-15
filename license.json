@@ -236,6 +236,16 @@
             "CROTDILUARNIKAH",
             "K3PINRETURN"
           ]
+        },
+        "Vikyouri": {
+          "active": true,
+          "growids": [
+            "POKUXIMUCE",
+            "LUPUCEZOXU",
+            "JUPUKIVASO",
+            "LIZACUTAWA",
+            "BUYUXASUNA"
+          ]
         }
       }
     },
