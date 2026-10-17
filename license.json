@@ -246,6 +246,12 @@
             "LIZACUTAWA",
             "BUYUXASUNA"
           ]
+        },
+        "Lufria": {
+          "active": true,
+          "growids": [
+            "QELIQOSULI"
+          ]
         }
       }
     },
